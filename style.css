@@ -70,3 +70,7 @@ h4 {
   margin-left:80px;
 }
 
+well {
+  background-color: black;
+  opacity: 0.4;
+}
